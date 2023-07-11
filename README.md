@@ -6,9 +6,10 @@
 
 * O sistema inicia pela tela do menu principal que exibe um cabeçalho com nome do sistema e opções do menu
 
-``` ***************************************************************************************************  
+``` 
+***************************************************************************************************  
                          GESTÃO DE AVALIAÇÕES - ALGORITMOS E PROGRAMAÇÃO 
-  *************************************************************************************************** 
+*************************************************************************************************** 
 1- Lançar avaliações e frequências
 2- Consultar avaliações e frequências lançadas
 3- Gerar relatório de fechamento
@@ -51,15 +52,17 @@
 
 <br>
 
-![menu4](../gestaoDeNotas/img/menu5.png)
+![menu4](.img/menu5.png)
 
 <br>
 
-![menu4](../gestaoDeNotas/img/menu7.png)
+![menu4](./img/menu7.png)
 
 <br>
 
 Além disso, ao gerar o relatório de fechamento, os dados dos alunos serão processados e gravados no arquivo "relatorio.txt". Ao selecionar a opção 3 - "Gerar relatório de fechamento" novamente, o programa exibirá uma mensagem informando que o relatório já foi gerado anteriormente.
+
+<br>
 
 ## TECNICALIDADES
 
