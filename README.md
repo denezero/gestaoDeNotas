@@ -6,17 +6,17 @@
 
 *  1. O sistema inicia pela tela do menu principal que exibe um cabeçalho com nome do sistema e opções do menu
 
-` ***************************************************************************************************  `
-`                         GESTÃO DE AVALIAÇÕES - ALGORITMOS E PROGRAMAÇÃO `
-`  *************************************************************************************************** `
-`1- Lançar avaliações e frequências`
-`2- Consultar avaliações e frequências lançadas`
-`3- Gerar relatório de fechamento`
-`4- Apresentar estatísticas`
-`5- Sair do programa`
+``` ***************************************************************************************************  
+                         GESTÃO DE AVALIAÇÕES - ALGORITMOS E PROGRAMAÇÃO 
+  *************************************************************************************************** 
+1- Lançar avaliações e frequências
+2- Consultar avaliações e frequências lançadas
+3- Gerar relatório de fechamento
+4- Apresentar estatísticas
+5- Sair do programa```
 
 
-img/menu1.png
+![menu1](menu1.png)
 
 * 2. A função da opção 2 é exibir na tela os lançamentos de notas e frequências já realizados pelos alunos cadastrados. Onde o programa lê os dados armazenados no arquivo "lancamentos.txt" e exibe-os na tela. Isso é feito através da abertura do arquivo em modo de leitura, a leitura dos dados linha por linha, o processamento e formatação dos dados lidos, e a exibição dos dados formatados na tela.
 
