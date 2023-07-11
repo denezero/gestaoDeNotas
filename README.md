@@ -16,33 +16,47 @@
 5- Sair do programa
 ```
 <br>
+
 ![menu1](./img/menu1.png)
+
 <br>
 
 * A função da opção 2 é exibir na tela os lançamentos de notas e frequências já realizados pelos alunos cadastrados. Onde o programa lê os dados armazenados no arquivo "lancamentos.txt" e exibe-os na tela. Isso é feito através da abertura do arquivo em modo de leitura, a leitura dos dados linha por linha, o processamento e formatação dos dados lidos, e a exibição dos dados formatados na tela.
 <br>
+
 ![menu2](./img/menu2.png)
+
 <br>
 
 ![menu2](./img/menu2.1.png)
+
 <br>
 
 ![menu2](./img/menu3.png)
+
 <br>
 
 
 * A função da opção 3 é gerar um relatório de fechamento da disciplina. Isso envolve a leitura dos dados de lançamentos do arquivo "lancamentos.txt", o cálculo da média ponderada e do resultado de cada aluno, a escrita dos dados processados em um novo arquivo "relatorio.txt" e a marcação da disciplina como encerrada. O relatório de fechamento contém informações como a matrícula, nome, frequência, notas, média e resultado de cada aluno.
 
 <br>
+
 ![menu3](./img/menu4.png)
+
 <br>
+
+
 
 * A função da opção 4 é apresentar estatísticas da disciplina, com base nos dados do relatório de fechamento gerado anteriormente. Isso envolve a leitura dos dados do arquivo "relatorio.txt", o cálculo da média da turma, média de frequência da turma, número de alunos aprovados e número de alunos reprovados. As estatísticas são exibidas na tela, incluindo o total de alunos, o número de alunos aprovados, o número de alunos reprovados e a média geral da turma. Após fechar o relatório, não será mais possível lançar novas avaliações e frequências, pois a disciplina está encerrada. Ao selecionar a opção 1 - "Lançar avaliações e frequências", o programa exibirá uma mensagem informando que a disciplina já foi encerrada.
 
 <br>
+
 ![menu4](../gestaoDeNotas/img/menu5.png)
+
 <br>
+
 ![menu4](../gestaoDeNotas/img/menu7.png)
+
 <br>
 
 Além disso, ao gerar o relatório de fechamento, os dados dos alunos serão processados e gravados no arquivo "relatorio.txt". Ao selecionar a opção 3 - "Gerar relatório de fechamento" novamente, o programa exibirá uma mensagem informando que o relatório já foi gerado anteriormente.
